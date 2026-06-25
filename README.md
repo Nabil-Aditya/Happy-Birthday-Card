@@ -1,4 +1,4 @@
-# 🎂 Happy Birthday, Jilaa
+# 🎂 Happy Birthday
 
 A personalized animated birthday wish page, built with HTML, CSS, and JavaScript.
 
@@ -9,7 +9,7 @@ A personalized animated birthday wish page, built with HTML, CSS, and JavaScript
 - **Animated Instagram DM scene** — typing indicator, message reveal character by character, gradient send button
 - **Romantic visual theme** — rose, blush, and mauve color palette with Cormorant Garamond + Nanum Myeongjo fonts
 - **Birthday photo section** — profile photo with animated party hat landing on top of the head
-- **Korean birthday message** — 생일 축하해. 네가 태어나줘서 정말 고마워.
+- **Korean birthday message** 
 - **Background music** — plays automatically on tap (browser-policy safe)
 - **Balloon & confetti celebration** — full-screen animated celebration sequence
 - **Tap to Begin overlay** — elegant start screen before the animation runs
@@ -46,7 +46,7 @@ All text is controlled from **`customize.json`**:
 | `textInChatBox` | Message typed in the IG DM |
 | `wishHeading` | Big text shown with the photo |
 | `wishText` | Subtitle below the photo |
-| `imagePath` | Path to the main photo (e.g. `img/profile.png`) |
+| `imagePath` | Path to the main photo (e.g. `img/profile.jpeg`) |
 
 ---
 
